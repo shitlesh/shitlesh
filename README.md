@@ -1,16 +1,41 @@
 ### Welcome to Shitlesh Bakshi's Github profile 👋
 
-<!--
-**shitlesh/shitlesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shitlesh-bakshi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm Shitlesh Bakshi, a seasoned developer turned AI engineer with 7 years of diverse experience at MNCs like Capgemini, Cognizant, and Mindtree. 
+
+Passionate about the intersection of code and intelligence, I've transitioned into the modern age of AI technologies. 
+
+Currently, solving Leetcode problems to keep my algorithm mindset sharp and to learn handling tricky situations.
+
+Eager to explore and discuss cutting-edge advancements, let's connect and dive into the exciting world of artificial intelligence!
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with Machine Learning, Deep Learning, Data Engineering, Natural Language Processing, etc.
+- 🚀 &nbsp; I’m currently pursuing Masters in Artificial Intelligence from [University of South Wales](https://www.southwales.ac.uk).
+- 💬 &nbsp; Ask me anything about Tensorflow, PIL and PyTorch.
+- 🌱 &nbsp; Hustling for developing innovative new projects on AI, ML, Data Analytics.
+- 📫 &nbsp; Reach me out: shitlesh.bakshi@gmail.com.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; I would to love to hangout out geeks out there for tech meetups, hackathon and relevant seminars.
+
+### Tech Stacks:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/html5-original.svg" alt="html5"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/jenkins-original.svg" alt="jenkins"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/cucumber-plain.svg" alt="cucumber"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/dot-net-original.svg" alt="dot-net"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/groovy-original.svg" alt="groovy"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/flask-original.svg" alt="flask"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
