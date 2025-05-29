@@ -14,7 +14,7 @@ Eager to explore and discuss cutting-edge advancements, let's connect and dive i
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Machine Learning, Deep Learning, Data Engineering, Natural Language Processing, etc.
-- 🚀 &nbsp; I’m currently pursuing Masters in Artificial Intelligence from [University of South Wales](https://www.southwales.ac.uk).
+- 🚀 &nbsp; Currently finished Masters in Artificial Intelligence from [University of South Wales](https://www.southwales.ac.uk) & now working as a Researcher at same place.
 - 💬 &nbsp; Ask me anything about Tensorflow, PIL and PyTorch.
 - 🌱 &nbsp; Hustling for developing innovative new projects on AI, ML, Data Analytics.
 - 📫 &nbsp; Reach me out: shitlesh.bakshi@gmail.com.
